@@ -11,7 +11,7 @@ A simple multi-client chat application built using Java Socket Programming. This
 * 🧵 Multi-threaded server handling
 * 📡 Client-server architecture
 * 🖥️ Console-based interface
-
+console 
 ---
 
 ## 🛠️ Technologies Used
